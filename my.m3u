@@ -1,4 +1,30 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="HIN" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp", English
-https://hls.streambtw.com/live/stream_e1.m3u8
+#EXTINF:-1 tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2021/07/19/a.jpg",ABP ANANDA
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0nhtSv5wQeLNJFgUVXIp_CSVN1K1mmSM_g&usqp=CAU",ZEE 24 GHANTA
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/TV9_Bangla_logo.jpg",TV9 BANGLA
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg",News18 Bangla
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_98834_eng=98800-video=2702400.m3u8
+
+#EXTINF:-1 tvg-logo="",
+
+
+#EXTINF:-1 tvg-logo="",
+
+
+#EXTINF:-1 tvg-logo="",
+
+
+#EXTINF:-1 tvg-logo="",
+
+
+#EXTINF:-1 tvg-logo="",
+
+
+#EXTINF:-1 tvg-logo="",
