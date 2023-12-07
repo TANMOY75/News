@@ -15,16 +15,16 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangl
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaAk06mDOqPCTT7x2OW4_Yr9ALKF8b5wPhrWQ6k=s900-c-k-c0x00ffffff-no-rj",REPUBLIC BANGLA
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_4.m3u8
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/400px-Aaj_tak_logo.png",AAJ TAK
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/400px-Aaj_tak_logo.png",AAJ TAK 2
+https://playback.akamaized.net/streams/14014394_10557935_lsinx329djlzvtkr0ht_1/media/14014394_10557935_lsinx329djlzvtkr0ht_1@5256000p.m3u8?dw=80&ts=1701928800&hdnts=exp=1702104902~acl=/streams/14014394_10557935_lsinx329djlzvtkr0ht_1/media*~hmac=090bff1d50ca9ff351616e4f52d705aa332a4c07e6f26b1b929e8bc8ac1d3568
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zWyOgbYz5bijD1KbpqpkjzudPU42sTPH2mioC7q8WXeUIeMqYmSBRhbGFRmWVYY7ckZ3",TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="",
-
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/330px-Republic_Bharat_logo.svg.png",R Bharat
+https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
 
 #EXTINF:-1 tvg-logo="",
