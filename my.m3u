@@ -24,4 +24,16 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/330px-Republic_Bharat_logo.svg.png",R Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/195px-ABP_News_logo.svg.png",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/cnvP1",GNT
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/375px-India_tv_logo-en.png",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/static/public/zee-news-new-logo.jpg",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+
 #EXTINF:-1 tvg-logo="",
