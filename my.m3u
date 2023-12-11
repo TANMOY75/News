@@ -36,8 +36,14 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/static/public/zee-news-new-logo.jpg",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png",CNBC Awaaz
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_eng=98800-video=2702400.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKajAETjgKfR8_DsLH9Bh-wkm_Xe3ex-s5TlH5d3pA=s900-c-k-c0x00ffffff-no-rj",Zee Business
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
+
+#EXTINF:-1 tvg-logo="",
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
