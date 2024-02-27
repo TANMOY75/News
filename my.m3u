@@ -50,4 +50,16 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo="https://tatalogo.pages.dev/24.png" group-title="Sports",Star Sports 1 Hindi HD
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"03c2e0af2f8159f9f0ce9b5dbc865f10":"cd84ed136b0cc71f8ab8cd4d4f6a2e4c"}
+#EXTINF:-1 tvg-logo="https://shorturl.at/evLQY",FHD ASTRO 1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://shorturl.at/evLQY",FHD ASTRO 2
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/evLQY",FHD ASTRO 3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd?ck=eyIwM2MyZTBhZjJmODE1OWY5ZjBjZTliNWRiYzg2NWYxMCI6ImNkODRlZDEzNmIwY2M3MWY4YWI4Y2Q0ZDRmNmEyZTRjIn0%3D&image=aHR0cHM6Ly9zaG9ydHVybC5hdC9ldkxRWQ%3D%3D&title=FHD+ASTRO+3
 
