@@ -56,7 +56,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",FHD ASTRO
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 
 X**********************X****************X***************X***********************X***********************X******************X*******************X*****************X
