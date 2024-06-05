@@ -63,8 +63,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 X**********************X****************X***************X***********************X***********************X******************X*******************X*****************X
 
 
-#EXTINF:-1 tvg-logo="https://images.indianexpress.com/2024/03/tata-ipl-2024-live-stream.jpg",IPL 4K
-https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.indianexpress.com/2024/03/tata-ipl-2024-live-stream.jpg",IPL FHD
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1050424/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAVtXIiCkXpEY9W0K6hsMQ","k":"Imw53X1BtvDifLfYlA9kTw"}],"type":"temporary"}
+#EXTINF:-1 group-title="Cricket" tvg-chno="" tvg-id="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png",Sky Sports Cricket
+https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
