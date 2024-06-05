@@ -68,5 +68,5 @@ X**********************X****************X***************X***********************
 #EXTINF:-1 group-title="Cricket" tvg-chno="" tvg-id="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png",Sky Sports Cricket
 https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
 
-#EXTINF:-1 tvg-logo="https://icc-sigma.vercel.app/apihttps://w7.pngwing.com/pngs/160/585/png-transparent-international-cricket-council-icc-logo-sports-cricket-teams.png" group-title="ICC",ICC IND
+#EXTINF:-1 tvg-logo="https://icc-sigma.vercel.app/apihttps://w7.pngwing.com/pngs/160/585/png-transparent-international-cricket-council-icc-logo-sports-cricket-teams.png", ICC IND
 https://vkvsd67.mycdn.me/hls/6582228814441.m3u8/sig/bboJCW1QUyI/srcIp/103.61.224.59/urls/185.226.52.95/expires/1717845404715/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7136451046249/id/6582228814441/video.m3u8?p
