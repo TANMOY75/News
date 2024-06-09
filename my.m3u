@@ -68,6 +68,9 @@ X**********************X****************X***************X***********************
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=primefhd
 https://otte.live.ll.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zplbbf2zou/out/v1/6267ca3987e44a28b1f48e00919dc864/cenc.mpd
 
+
+
+
 #EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime Hindi FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
