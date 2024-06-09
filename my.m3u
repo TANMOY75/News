@@ -68,8 +68,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=primefhd
 https://otte.live.ll.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zplbbf2zou/out/v1/6267ca3987e44a28b1f48e00919dc864/cenc.mpd
 
-#EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime Hindi FHD
+#EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime Hin FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=prime2fhd
 https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EQW4Xm22IU5obkYiBu2G7A","k":"WdhRGHNUtl-i0UgpBGiT7w"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png",Prime Hindi FHD
+https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
