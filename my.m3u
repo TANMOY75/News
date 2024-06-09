@@ -78,3 +78,6 @@ https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EQW4Xm22IU5obkYiBu2G7A","k":"WdhRGHNUtl-i0UgpBGiT7w"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png",Prime Hindi FHD
 https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://c.ndtvimg.com/2023-12/qhgfbe4o_t20-world-cup-2024-logo_625x300_07_December_23.jpg",Hotstar
+https://t20.dinesh29.com.np/hindi/index.m3u8
