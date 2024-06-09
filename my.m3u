@@ -62,13 +62,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 X**********************X****************X***************X***********************X***********************X******************X*******************X*****************X
 
-
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20240229/original/pngtree-icc-mens-t20-world-cup-2024-logo-vector-png-image_14447414.png", T20 08
-https://live12p-ssai-akt-mum.cdn.hotstar.com/hls/live/2003704/inallow-icct20wc-2024/hin/1540029944/15mindvrm01ec5ffcc29d9848fb853cdeec0ff2751508june2024/master_ap_1080_6.m3u8?|cookie=hdntl=exp=1717916650~acl=%2f*~id=0e6ece92e0ac21316092f423cfe138c8~data=hdntl~hmac=6588f86105ed0492a69506edbbfc1954d623a09d68cecc67c6523d2f0864c174
-
-#EXTINF:-1 tvg-logo="https://icc-sigma.vercel.app/apihttps://w7.pngwing.com/pngs/160/585/png-transparent-international-cricket-council-icc-logo-sports-cricket-teams.png" group-title="ICC",ICC India vs Ireland
+#EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://imthebest.eu/sports/1.php?show_id=icc
-https://icc-sigma.vercel.app/api?VideoId=c68633c6-297b-496b-8ece-279940e1186c&VideoSource=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/manifest.mpd?vcfilter=c68633c6-297b-496b-8ece-279940e1186c&sessid=c68633c6-297b-496b-8ece-279940e1186-d
+#KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=primefhd
+https://otte.live.ll.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zplbbf2zou/out/v1/6267ca3987e44a28b1f48e00919dc864/cenc.mpd
