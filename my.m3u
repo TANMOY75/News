@@ -79,8 +79,5 @@ https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png",Prime Hindi FHD
 https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://c.ndtvimg.com/2023-12/qhgfbe4o_t20-world-cup-2024-logo_625x300_07_December_23.jpg", ICC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rnB2tkcTNga3BNM-TO9RNA","k":"gQJRUVWEz3EhbZotHr8Euw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/hdntl=exp=1718573661~acl=/variant/v1blackout/ch-hd-01-d/*~data=hdntl~hmac=ea201ebc5e8c9e64188ed38ec087ddf967c24e3b81f0ea9b1572f5aea3618826/manifest.mpd
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg",UEFA CUP
+https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
