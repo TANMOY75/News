@@ -15,9 +15,7 @@ http://otte.live.ll.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/ou
 https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="inba06222024239649" group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/600px-International_Cricket_Council_%28logo%29.svg.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", India VS Bangladesh
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=officialstreaming
-https://officialstreaming.premiumbynd.workers.dev/play.php?streaming=gdeffe9gnd9687nd5g14nd94e1nd73f2e6f8ff91&codeby=nd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",FHD ASTRO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
