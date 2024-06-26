@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" group-title="SonyLiv", UEFA
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg",UEFA M1
 https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg",UEFA M2
+https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 
 #EXTINF:-1 tvg-logo="",HOTSTAR
 
