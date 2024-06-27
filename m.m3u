@@ -6,6 +6,9 @@ https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 
 #EXTINF:-1 tvg-logo="",HOTSTAR
 
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/3ewsog6hb8y8irm4xb92j/20240627_103643.png?rlkey=0vmwhhkjskre5e7dsemdif53l&dl=1",HOTSTAR FHD
+https://mm5-141.tinyuri.org/live/m4-index.m3u8?|Referer=https://emdftinya.tinyuri.org/
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bajCaNWKD-T_ddKXNZqK1w","k":"6wrkwsJKUgcBVEmbsJo2yw"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png",Prime Hin FHD(50)
