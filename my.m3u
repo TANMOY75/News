@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2021/07/19/a.jpg",ABP ANANDA
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/945/8337945-middle.png",ABP ANANDA
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0nhtSv5wQeLNJFgUVXIp_CSVN1K1mmSM_g&usqp=CAU",ZEE 24 GHANTA
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OrhmAikO.png",ZEE 24 GHANTA
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/TV9_Bangla_logo.jpg",TV9 BANGLA
