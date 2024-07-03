@@ -5,38 +5,3 @@ https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 
 #EXTINF:-1 tvg-logo="",HOTSTARrrr
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41F9mjnTWpL._AC_UF1000,1000_QL80_.jpg",HOTSTAR
-https://mature-throws-renewable-omissions.trycloudflare.com/live/IND_vs_ENG(SF2)/HOTSTAR(HINDI)%20@HoneyBhai.m3u8?playback_proto=http&playback_host=live12p-pristine-akt.cdn.hotstar.com|Stream-URL=http://absicka4uajwaaayaaaaaaaaaaaaa.live-ssai-cf-mum-ace.cdn.hotstar.com/hls/live/2024729/inallow-icct20wc-2024/hin/1540029923/15mindvrm01fa069334332b420cb2b8d4be2326f74427june2024&Stream-User-Agent=Hotstar;in.startv.hotstar/24.04.23.6.9999%20(Android/14)&Cookie=CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA;%20CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2Fic2lja2E0dWFqd2FhYXlhYWFhYWFhYWFhYWFhLmxpdmUtc3NhaS1jZi1tdW0tYWNlLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI5L2luYWxsb3ctaWNjdDIwd2MtMjAyNC9oaW4vMTU0MDAyOTkyMy8xNW1pbmR2cm0wMWZhMDY5MzM0MzMyYjQyMGNiMmI4ZDRiZTIzMjZmNzQ0MjdqdW5lMjAyNC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5NTgxMjUwfX19XX0_;%20CloudFront-Signature=m92uf3vXTn0y5J8Oj9x1X~ep34lreMX7w2czbGM5sTGN9OyuE7-RKpJO0s5suoi7PlMsKGoSlO4P8lx-93HwlslrUjNRdWyjxSgLXm3f1xi2XvZKF9qGBWT1vjHOxvuaf-Mpf750Rwc~HylrM2~rz7CRwupmS47ZfY9NVvIRn5Ig6cV0Kk4RHm9I0bbowLtFuubXGoxfaMEub4LJBQFN~5HRgN73Rc5tASjn5mZu996i-QQzNbAi080lThBBS67Z1kUNSg8fwbQfcGHL1Wc7yVRvYOrT7HitlFrttlL~SS8L4hOFTv8nMXyy2dHJef4CHzDKt1iT1RhmkgzKwNa8Uw__;%20hdntl=exp=1719581250~acl=/hls/live/2024729/inallow-icct20wc-2024/hin/1540029923/15mindvrm01fa069334332b420cb2b8d4be2326f74427june2024/master_apmf~type=free~data=ip=dnuyNaJZhwn-userid=dnuyNaJZhwn-did=dnuyNaJZhwn-cc=in-~hmac=be1723a66a8949ca64816b08436f98b52788dc04977d010ac8fb114eee2ac3fb&User-Agent=@HoneyBhai
-
-#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/3ewsog6hb8y8irm4xb92j/20240627_103643.png?rlkey=0vmwhhkjskre5e7dsemdif53l&dl=1",HOTSTAR FHD
-https://mm5-141.tinyuri.org/live/m4-index.m3u8?|Referer=https://emdftinya.tinyuri.org/
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bajCaNWKD-T_ddKXNZqK1w","k":"6wrkwsJKUgcBVEmbsJo2yw"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png",Prime Hin FHD(50)
-http://otte.live.ll.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EQW4Xm22IU5obkYiBu2G7A","k":"WdhRGHNUtl-i0UgpBGiT7w"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png",Prime Hin FHD(25)
-https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bajCaNWKD-T_ddKXNZqK1w","k":"6wrkwsJKUgcBVEmbsJo2yw"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png",PRIME NEW
-https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bajCaNWKD-T_ddKXNZqK1w","k":"6wrkwsJKUgcBVEmbsJo2yw"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png",PRIME NEW 2
-http://otte.live.ll.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",FHD ASTRO
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
