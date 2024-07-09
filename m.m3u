@@ -12,6 +12,7 @@ https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"58ZQrHLc0DEUEYMqgnG7EA","k":"6o-kPMcQLkgc1EHFiy7LCA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://ultrawebs.github.io/-/webpa/spotv.webp",SPOtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bAJ4Ngg.png",SPOtv
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+
 #EXTINF:-1 tvg-logo="",HOTSTARrrr
