@@ -47,17 +47,17 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=24&key
+#KODIPROP:inputstream.adaptive.license_key=https://playlist.line.pm/ytp/getkey.php?id=24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36
 #EXTINF:-1 tvg-id=tatasky_24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="TPLAY | Sports",Star Sports 1 Hindi HD
-https://rftv.wtf/tp/tplay.mpd?contentID=24
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/team-CC.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",FHD ASTRO
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 
 --------------------
