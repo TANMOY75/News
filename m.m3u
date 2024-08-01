@@ -1,13 +1,260 @@
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/euro2024_sf_netherlands_vs_england_8jul_multilang_landscape_thumb.jpg",UEFA M1
-https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0j9qvxy.jpg",UEFA FINAL
-https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"58ZQrHLc0DEUEYMqgnG7EA","k":"6o-kPMcQLkgc1EHFiy7LCA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bAJ4Ngg.png",SPOtv
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+#https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 
 #EXTINF:-1 tvg-logo="",HOTSTARrrr
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZBfCZe7/U326G8VBjwB60g", "kid":"QdoJWBnHSzCqlNryuDzjeQ" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="780.astro",Astro OLY 1 (SOOKA)
+https://linear14-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4Ztpf97cWwzwrVBo3hPQqQ", "kid":"lPrhfk0V4c0L3HztCW+lEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="780.astro",Astro OLY 1 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hV2W/lySIxPPIcLVAPQebw", "kid":"Pi2FlBffQYG0nisy3Prrtg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="781.astro",Astro OLY 2 (SOOKA)
+https://linear14-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xqCbHYAdNjHNd9pIZXjd9g", "kid":"FgTsETWMbIgQK++Ktb3KEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="781.astro",Astro OLY 2 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"j/KykdywNJ2P2555oRWMQg", "kid":"4eJFv3h+SzSOPhURn0L00w" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="782.astro",Astro OLY 3 (SOOKA)
+https://linear14-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fHqYI2x9zOQ/EmkZAGC4oA", "kid":"1q/iRrPbBn34N/r8BneNEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="782.astro",Astro OLY 3 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5152/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nc0GFjQF/wTaJrkvU21BRg", "kid":"0LGqh4x5SuiPxqWThIQdRA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="783.astro",Astro OLY 4 (SOOKA)
+https://linear15-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ocORwepRV1bVJyly1rvXKQ", "kid":"ZKjwhJDZHe2J+XfYWHjREA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="783.astro",Astro OLY 4 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rO4p/Y7DMX0aZmrLD04djw", "kid":"4SVTc2giSjSp/xxW8dnLFA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="784.astro",Astro OLY 5 (SOOKA)
+https://linear15-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KI5/icnIcm2IB1Pdr55w7Q", "kid":"jLZ7f6NN5hUylHJUMJ1NEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="784.astro",Astro OLY 5 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rGc43q3Y1haTWbPzP3JS7g", "kid":"3V8lLNMuSZWq8gjnOBcL5w" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="785.astro",Astro OLY 6 (SOOKA)
+https://linear15-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lEmlULfJ0A9aYu4daK4yqA", "kid":"hHBZ1HOGcG7uYQBiFw9WEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="785.astro",Astro OLY 6 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5155/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VYm6JmXI2v2p+5fz1+9Sbg", "kid":"bxWpsvJ7StqpWQUNtgPAjw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="786.astro",Astro OLY 7 (SOOKA)
+https://linear15-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5+Ykycf6dtgaRiq6ES/EYQ", "kid":"xqAScwW04UbBNngRTZQ7EA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="786.astro",Astro OLY 7 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5156/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BB2TjTWHy6OnCdWI0ipusg", "kid":"kUNrnszvTVOGzuRbm7V2lg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="787.astro",Astro OLY 8 (SOOKA)
+https://linear18-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BiOQh/xFNh+oaQaJFOaV+g", "kid":"IfHE6HOxTY1yYo7KuY/oEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="787.astro",Astro OLY 8 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5157/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w594evEFbniP95Wzqr4fJg", "kid":"Kz9wDO7YSluerAQxXkHA+A" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="788.astro",Astro OLY 9 (SOOKA)
+https://linear18-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zx8mY2fi7rkHgEFhc5T/aQ", "kid":"gSV9aBX0Xadj8FJzwO9TEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="788.astro",Astro OLY 9 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5158/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DbKjS5hd/GjhPzfAXAg3bw", "kid":"ZzD5sk5GR46eUZU5JCWTOA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="789.astro",Astro OLY 10 (SOOKA)
+https://linear18-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N/FcZ2PB1nxFHjpvJMSTvw", "kid":"P8gyJ4ZlhHHQ+gLOMRR9EA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="789.astro",Astro OLY 10 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5159/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cccogzth+cLCrfkyFaI+4g", "kid":"zEnmpI/sQpWdXhKSgWCdGA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="790.astro",Astro OLY 11 (SOOKA)
+https://linear18-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RNqTXG0HTSkLrw8sQDOaAg", "kid":"wb6iO931ahjBnV3mEjAJEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="790.astro",Astro OLY 11 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5160/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w2dLh4HJEkpQDXOaWdvpPw", "kid":"KGPMekF1SUWNd/QcP/Zh9g" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="791.astro",Astro OLY 12 (SOOKA)
+https://linear19-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WvRoOYQT+/onBgC8egxrYQ", "kid":"1WbrIdUSNlAQujJUUOq6EA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="791.astro",Astro OLY 12 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5161/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v7VYeO6Ke2X09ddTiA6Hgw", "kid":"dEyuPgRyRlaGT9DVUr2Omw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="792.astro",Astro OLY 13 (SOOKA)
+https://linear19-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0EW+fPL6gddilSoUTigz8g", "kid":"/cALzXtyN2G24xAv04+0EA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="792.astro",Astro OLY 13 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5162/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lVjXdOQyOZMK5gMkBWgowQ", "kid":"4BQ1ahEvReydNAmkSMfkwg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="793.astro",Astro OLY 14 (SOOKA)
+https://linear19-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nKN/nkzxYYq5MnCeRN82eg", "kid":"NY0MP2kApS3foI7VztJFEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="793.astro",Astro OLY 14 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5163/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RS/pxdelTqstqAMWMX7Jxg", "kid":"F2a5U/1LRIaxH86P8b2t4Q" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="794.astro",Astro OLY 15 (SOOKA)
+https://linear19-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"015ygkXdEdw2L8MHqTAPxw", "kid":"gkK7KAUpITjohgiPcDV2EA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="794.astro",Astro OLY 15 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5164/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5sr8DCLEvVDpkV9aQXw61w", "kid":"nL3UfqXmRbGR3yo9Vwu8Eg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="795.astro",Astro OLY 16 (SOOKA)
+https://linear20-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YOWb2G4uSvElaSLRRlcoyg", "kid":"s+Taow4OlX6Am64nHke5EA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="Paris 24" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="795.astro",Astro OLY 16 (AOTG)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5165/default_primary.mpd
