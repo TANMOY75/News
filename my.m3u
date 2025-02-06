@@ -61,9 +61,8 @@ https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/team-C
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",FHD ASTRO
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
-#EXTINF:-1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2023-06/09/full/1686299394-7245.jpg",INDVSENG ODI
-https://live12p.hotstar.com/hls/live/2027118/inallow-indvseng-2025/hin/1540037334/15mindvrm01a9fe97f78a9443858bb16474c9b9441206february2025/master_ap_1080_5.m3u8?|cookie=ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%223b5b74f3-0574-42e4-8c18-e45a22486cc0%22; hdntl=exp=1738842791~acl=/hls/live/2027118/inallow-indvseng-2025/hin/1540037334/15mindvrm01a9fe97f78a9443858bb16474c9b9441206february2025/master_ap*~data=ip=oj6sZ61PWMNJ8L1e4Xltvd-userid=wHRctCNidrJFSuEoeZm7aas0iUKkMo1AscliBKlYSIwZ-did=YOrWCD3hjHlK1qRmQiodV5yZqv5A5hAo6hbbqHQaPEP2-cc=in-de=1-pl=web-ap=24.12.13.3-ut=free-fpassv2-rd=10968-cd=3432-ad=14400-ce=1738840991-ttl=1800-type=paid-raf=1738841591-~hmac=70cf31aa283214dfc7d71c998e0989016bf87a2022ac61133a8adc00082e66e6
-
+#EXTINF:-1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2023-06/09/full/1686299394-7245.jpg",INDvsENG ODI
+https://live12p.hotstar.com/hls/live/2027118/inallow-indvseng-2025/hin/1540037334/15mindvrm01a9fe97f78a9443858bb16474c9b9441206february2025/master_ap_1080_5.m3u8?|cookie=https://text.is/RZOK6
 --------------------
 
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
