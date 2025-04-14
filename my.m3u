@@ -67,3 +67,7 @@ https://live12p.hotstar.com/hls/live/2027118/inallow-indvseng-2025/hin/154003733
 
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
 https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,h_360/sources/r1/cms/prod/3566/1744541133566-b" group-title="IPL25 FHD (Telegram: @links_macha_official)", LSG vs CSK - Hindi
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
+https://enlargement-definitely-continent-tired.trycloudflare.com/JStar/IPL/hls/live/master.m3u8?cid=1540040264&lang=hin&qlt=FHD
