@@ -68,6 +68,6 @@ https://live12p.hotstar.com/hls/live/2027118/inallow-indvseng-2025/hin/154003733
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
 https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,h_360/sources/r1/cms/prod/3566/1744541133566-b" group-title="IPL25 FHD (Telegram: @links_macha_official)", LSG vs CSK - Hindi
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
-https://enlargement-definitely-continent-tired.trycloudflare.com/JStar/IPL/hls/live/master.m3u8?cid=1540040264&lang=hin&qlt=FHD
+
+#EXTINF:-1 tvg-logo="https://www.m9.news/wp-content/uploads/2025/02/ipl-2025-768x576.jpg",IPL
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1744810558~acl=*sshindi*~id=24e38da742ad8c70c4fdb2e802d81918~data=hdntl~hmac=e4ff740398af4edc8c92582cc39224393aad92170a1ba9d6a21e69ca01e40700&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
