@@ -70,6 +70,6 @@ https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fe7718fbb3fb4ba78c07cc0f578744e6":"624e24b1843b459fab0a949609416f0d"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_ncY-7P7S6eMB8wPV4dE5g","k":"Yk4ksYQ7RZ-rCpSWCUFvDQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740654502/xweofraewhomyssz3th7.jpg",IPL
 https://psplay.site/ps_star/sshindi/ps_manifest.mpd
