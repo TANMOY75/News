@@ -69,7 +69,7 @@ https://live12p.hotstar.com/hls/live/2027118/inallow-indvseng-2025/hin/154003733
 https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
 
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.m9.news/wp-content/uploads/2025/02/ipl-2025-768x576.jpg",ASTRO HD
-https://link.joker-verse.workers.dev/astrocricket.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fe7718fbb3fb4ba78c07cc0f578744e6":"624e24b1843b459fab0a949609416f0d"}
+#EXTINF:-1 tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740654502/xweofraewhomyssz3th7.jpg",IPL
+https://psplay.site/ps_star/sshindi/ps_manifest.mpd
