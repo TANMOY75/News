@@ -45,31 +45,9 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKajAETjgKfR8_DsLH9Bh-wkm_Xe3ex-s5TlH5d3pA=s900-c-k-c0x00ffffff-no-rj",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/NDTV_Profit.png",NDTV Profit Prime
+https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="",
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://playlist.line.pm/ytp/getkey.php?id=24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36
-#EXTINF:-1 tvg-id=tatasky_24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="TPLAY | Sports",Star Sports 1 Hindi HD
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/team-CC.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",FHD ASTRO
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
-
-#EXTINF:-1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2023-06/09/full/1686299394-7245.jpg",INDvsENG ODI
-https://live12p.hotstar.com/hls/live/2027118/inallow-indvseng-2025/hin/1540037334/15mindvrm01a9fe97f78a9443858bb16474c9b9441206february2025/master_ap_1080_5.m3u8?|cookie=https://text.is/RZOK6
---------------------
-
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_ncY-7P7S6eMB8wPV4dE5g","k":"Yk4ksYQ7RZ-rCpSWCUFvDQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740654502/xweofraewhomyssz3th7.jpg",IPL
-https://psplay.site/ps_star/sshindi/ps_manifest.mpd
