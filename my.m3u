@@ -68,3 +68,6 @@ https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-8003000
 
 #EXTINF:-1 tvg-logo="https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2025%2F07%2FBCCI-Asia-Cup-2025.jpg&w=1920&q=75",Asia Cup HD
 https://dai.google.com/ssai/event/yk9L2U37Sgilimx_SKGHhw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2025%2F07%2FBCCI-Asia-Cup-2025.jpg&w=1920&q=75",Asia Cup FC
+https://livecf.fancode.com/136749_hindi_hls_490299049e17012adfreeta-di_h264/index.m3u8?|Referer=https://www.fancode.com/
