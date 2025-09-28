@@ -63,5 +63,8 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/823v0n0vwjxqshednu13f8jc_image-header_pRow_1751771827000/fill/none/top/none/85/1920/1080/webp/image",Fifa CWC
 https://dca-co-live-gcr.gcdn.co/9iswtiwixvbn11zle8cwsb5gu/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en
 
-#EXTINF:-1 tvg-logo="https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2025%2F07%2FBCCI-Asia-Cup-2025.jpg&w=1920&q=75",Asia Cup
-https://livecf.fancode.com/136748_hindi_hls_174a58005443870adfreeta-di_h264/index.m3u8?|Referer=https://fancode.com/&Origin=https://fancode.com/
+#EXTINF:-1 tvg-logo="https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2025%2F07%2FBCCI-Asia-Cup-2025.jpg&w=1920&q=75",Asia Cup FHD
+https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759110110~acl=/*~id=89376125675120590231220356223851~hmac=a1dae447cbde9977cbfe3b7e3667824befeecd357533d2eb98f8dc94ebdecb27
+
+#EXTINF:-1 tvg-logo="https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2025%2F07%2FBCCI-Asia-Cup-2025.jpg&w=1920&q=75",Asia Cup HD
+https://dai.google.com/ssai/event/yk9L2U37Sgilimx_SKGHhw/master.m3u8
