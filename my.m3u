@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Ananda.png",ABP ANANDA
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master_1280.m3u8
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master_1280.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OrhmAikO.png",ZEE 24 GHANTA
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
