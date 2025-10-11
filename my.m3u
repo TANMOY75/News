@@ -48,6 +48,10 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/NDTV_Profit.png",NDTV Profit Prime
 https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.etnownews.com/assets/icons/svg/et-now-swadesh.svg",ET-Swadesh
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/live_720p/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Times_Now_Navbharat.png",Times Now Navbharat
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 
