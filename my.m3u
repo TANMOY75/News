@@ -69,3 +69,6 @@ https://dca-co-live-gcr.gcdn.co/9iswtiwixvbn11zle8cwsb5gu/tv/stream.mpd?channel=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png",Fox HD
 https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-19/mifr-vsgy/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png",Fox Hin HD
+https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-115/3msa-4ftc/chunklist.m3u8
