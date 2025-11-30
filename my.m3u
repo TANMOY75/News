@@ -71,4 +71,11 @@ https://dca-co-live-gcr.gcdn.co/9iswtiwixvbn11zle8cwsb5gu/tv/stream.mpd?channel=
 https://dj-tm-srvr1.vercel.app/title/FOX_505-HD(50FPS)@DJ-TM.m3u8?data=8_PzS3OKzE3xMHaLzPIod4wwN4jIdLJ0j8wMMkxNCnAPc843cEoNcsssSDfINTNwdzY0iAAA|Telegram=@links_macha_official&Creator=@DJ-TM
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png",Hin HD
-https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/index2.m3u8?|Cookie=hdntl=exp=1763322006~acl=%2f*~id=88f13348a363ba858ae27a00a261e92e~data=hdntl~hmac=c17e38c996b4c40f5a63b3261dece4b6c201ed0de2a9cba92d2d2b833ea3ce47&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1764543007~acl=%2f*~id=af5f7f7709b4ed5ae1cbcf2aa45151db~data=hdntl~hmac=db4239d31727fc81cbba7f1250fda8700eadd53df760069235edcd72c6a8d755
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.hotstar.com/
+#KODIPROP:inputstream.adaptive.stream_headers=User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+#EXTINF:-1,Star Sports 2 HD
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/index2.m3u8
