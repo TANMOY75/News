@@ -64,11 +64,17 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/823v0n0vwjxqshednu13f8jc_image-header_pRow_1751771827000/fill/none/top/none/85/1920/1080/webp/image",Fifa CWC
-https://dca-co-live-gcr.gcdn.co/9iswtiwixvbn11zle8cwsb5gu/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png",Fox HD+
-https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-59/3530-cirs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/056/505/637/non_2x/jiohotstar-app-icon-on-transparent-background-free-png.png",Hin HD
 https://cdn-media-content.onestream.studio/content/hls/live/event_22035114_4r269iucg/hls.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ae7076b647133606b704d33e4cef5134":"810251515584cf71216d9a2d1ebf04bb"}
+#EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063",T20 WC
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=44951f97-10ec-427f-a95a-a2ecf57e9a41
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rnB2tkcTNga3BNM-TO9RNA","k":"gQJRUVWEz3EhbZotHr8Euw"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063",T20 WC
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=44951f97-10ec-427f-a95a-a2ecf57e9a41
