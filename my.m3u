@@ -70,11 +70,7 @@ https://cdn-media-content.onestream.studio/content/hls/live/event_22035114_4r269
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ae7076b647133606b704d33e4cef5134":"810251515584cf71216d9a2d1ebf04bb"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UxWZpZXwoDztczAL6uyZtw","k":"9ad9ORhHeQ9GBZy7CS1XWw"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063",T20 WC
-https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=44951f97-10ec-427f-a95a-a2ecf57e9a41
+https://aba3uzvaaaaaaaamkb4slzclmvkhr.ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rnB2tkcTNga3BNM-TO9RNA","k":"gQJRUVWEz3EhbZotHr8Euw"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063",T20 WC
-https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=44951f97-10ec-427f-a95a-a2ecf57e9a41
