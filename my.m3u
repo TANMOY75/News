@@ -65,20 +65,10 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/056/505/637/non_2x/jiohotstar-app-icon-on-transparent-background-free-png.png",Hin HD
-https://cdn-media-content.onestream.studio/content/hls/live/event_22035114_4r269iucg/hls.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UxWZpZXwoDztczAL6uyZtw","k":"9ad9ORhHeQ9GBZy7CS1XWw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Oxdo6I_iAIe6qgKezmXMWQ","k":"irWx0ICKyeOBF1CgcT0RTg"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063",T20 WC
-https://aba3uzvaaaaaaaamkb4slzclmvkhr.ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rxhxc14ikz/out/v1/bb976c39247941f3b4c9fa0a0735426d/cenc.mpd
 
-
-
-#KODIPROP:inputstream.adaptive.file_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vR6mocH7Xc23CUNOCCa7wA","k":"9X8iy6MnOc576x-rPz0GCw"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://cdn.smartads.in/images/product/television/Star-Sports-1-Hindi.png",SS1 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd|cookie=__hdnea__=st=1771724162~exp=1771810562~acl=/*~hmac=6fe8c8284220e68bcbd324c1aa7b35202d6aeac2018f2f526458fd98766e7a8f&User-Agent=Mozilla/5.0
 
