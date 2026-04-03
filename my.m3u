@@ -64,10 +64,5 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QAExmUtEXYyIFyAiSHYP2g","k":"LVbLbwenW5r_Fl1TSuK_xA"}],"type":"temporary"}
-#EXTHTTP:{"cookie":"hdnea=st=1775132101~exp=1775153701~acl=/*~hmac=63dac38dfd73ebca31787b336e19841cdb98f52b2f7b15783d20bcd14db8911f"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?hdnea=st=1775132101~exp=1775153701~acl=/*~hmac=63dac38dfd73ebca31787b336e19841cdb98f52b2f7b15783d20bcd14db8911f&xxx=%7Ccookie=hdnea=st=1775132101~exp=1775153701~acl=/*~hmac=63dac38dfd73ebca31787b336e19841cdb98f52b2f7b15783d20bcd14db8911f
-
-
+#EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/74594723.jpg",IPL
+https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8
