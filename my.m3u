@@ -68,3 +68,8 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 https://dillzy-stream.sayanwork-studioo.workers.dev/live/abc123.m3u8
 
 #https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25
+#KODIPROP:inputstream.adaptive.stream_headers=cookie=hdntl=exp=1775379903~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149695,debug4xx%3afalse,country%3aAE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc
+#EXTINF:-1,q
+https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149699/master.m3u8
