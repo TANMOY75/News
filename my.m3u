@@ -63,11 +63,12 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8bf05c8617fb5d258b65b7f0df80a608":"89e1b8c1e39a48c6c1616360ffbfb612"}
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/3577/1780152463577-h",Kayo Hindi
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/8385ebd5ee5f436abdb3696037819414/index.mpd
 
-#EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/74594723.jpg",IPL
-https://dillzy-stream.sayanwork-studioo.workers.dev/live/abc123.m3u8
 
-#https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"anHXr3Dq6xsBje12QKJlYg","k":"XX9ztCwZ07toxV1u4mdrfQ"}],"type":"temporary"}
