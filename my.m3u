@@ -64,13 +64,12 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"i_Bchhf7XSWLZbfw34CmCA","k":"ieG4weOaSMbBYWNg_7-2Eg"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/3577/1780152463577-h",Kayo Hindi
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/8385ebd5ee5f436abdb3696037819414/index.mpd
-
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2BYofiFJaYnq4TEpJaQjxQ","k":"ANoA8TGA5-bNXOh9HJdOjQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/72152c3dfe3c7bffecfd94463727c0a5.jpg",Fifa
+https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"anHXr3Dq6xsBje12QKJlYg","k":"XX9ztCwZ07toxV1u4mdrfQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://resources.insidersport.com/insidersport/2019/11/shutterstock_1038630988.jpg",UCL Final
-https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8rbm0uwsbr/out/v1/86d7169ffdff4df6b28dfdb4b49bcfb3/106ca8fc-7790-47e2-b541-1aeccc80282d-cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"p9EdN6H3YR7ojU24gBcfMg","k":"aPltYYsLlWsAjERYlqJaeQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/72152c3dfe3c7bffecfd94463727c0a5.jpg",Fifa 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
