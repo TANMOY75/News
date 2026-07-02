@@ -72,6 +72,20 @@ https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/m8uy-e0k3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/72152c3dfe3c7bffecfd94463727c0a5.jpg",Fifa
 https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd
 
+#EXTINF:-1 tvg-id="0-1-6z5974916" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1013,h_570,c_scale,f_webp,q_auto:eco/resources/0-1-6z5974916/list/1920x1080list8a54b9bb50ab4b6780ce8bf31c242a1ba8fe1c8c6bbf4a00872d4fea55fc2480" group-title="FIFA 2026 - Sportzx", RTE SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd
+
+#EXTINF:-1 tvg-id="0-1-6z5974916" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1013,h_570,c_scale,f_webp,q_auto:eco/resources/0-1-6z5974916/list/1920x1080list8a54b9bb50ab4b6780ce8bf31c242a1ba8fe1c8c6bbf4a00872d4fea55fc2480" group-title="FIFA 2026 - Sportzx", WC TV FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"iTvGM0CHZgX1KIakLgzM5Q","k":"1sRtLWkQVvvQkb8fAbIakQ"}],"type":"temporary"}
