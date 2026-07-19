@@ -78,6 +78,7 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 #https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/0d80be88-2ffb-4548-8db3-a64235332b23:GRQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="0-1-6z5974916" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1013,h_570,c_scale,f_webp,q_auto:eco/resources/0-1-6z5974916/list/1920x1080list8a54b9bb50ab4b6780ce8bf31c242a1ba8fe1c8c6bbf4a00872d4fea55fc2480", WC TV FHD
 #KODIPROP:inputstream=inputstream.adaptive
